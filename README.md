@@ -3,12 +3,16 @@
 Projeto que utiliza técnicas de Inteligência Artificial e PLN (Processamento de Linguagem Natural) para detectar sentimentos em textos.
 
 Está em desenvolvimento para ser apresentado como o projeto final do curso de Engenharia de Computação (TCC)
+
+A base de dados consiste em dados de Reviews (comentários) de filmes, onde estes foram previamente classificados em sentimentos positivos ou negativos
 * [Base De Dados](https://github.com/laxmimerit/IMDB-Movie-Reviews-Large-Dataset-50k)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 # [Notebook do projeto](https://github.com/lucca-fsc/EmotionDetection/blob/main/Sentiment_Analysis_with_SkLearn.ipynb)
+
+Objetivo: O Projeto tem como objetivo utilizar técnicas de Processamento de Linguagem Natural e Machine Learning para detectar automaticamente emoções em textos.
 
 Atividades:
 1. Entender quais informações o conjunto de dados possui;
